@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/photo de couverture 2.png" width="100%" />
+  <img src="photo de couverture 2.png" width="100%" />
 </p>
 
 👋 Portfolio – Ingénieur Mécanique | CAO • Conception • Méthodes • Industrialisation
