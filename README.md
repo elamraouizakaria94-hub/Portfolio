@@ -54,9 +54,13 @@ Analyse de processus de production et propositions d’amélioration pour optimi
 📁 Contenu du portfolio
 
 • CV professionnel
+
 • Dossier de compétences
+
 • Projets CAO et industriels
+
 • Rendus 3D et visuels techniques
+
 • Documents techniques et études
 
 🎯 Objectif professionnel
@@ -71,6 +75,7 @@ Analyse de processus de production et propositions d’amélioration pour optimi
 📫 Contact
 
 LinkedIn : https://www.linkedin.com/in/zakaria-el-amraoui-876274136/
+
 Email : elamraoui.zakaria94@gmail.com
 
 ⭐ Merci de visiter mon portfolio !
