@@ -13,31 +13,45 @@ Curieux, rigoureux et orienté terrain, je souhaite contribuer à des projets in
 🔧 Conception mécanique & CAO
 
 • Modélisation 3D de pièces et ensembles mécaniques
+
 • Mise en plan et cotation fonctionnelle
+
 • Conception orientée fabrication et assemblage
+
 • Études mécaniques et optimisation de conception
+
 • Logiciels : SolidWorks / CATIA / Creo
 
 🏭 Méthodes & Industrialisation
 
 • Analyse des procédés de fabrication
+
 • Préparation et optimisation de production
+
 • Étude et amélioration de postes de travail
+
 • Réduction des coûts et optimisation des temps
+
 • Introduction aux méthodes Lean Manufacturing
 
 🖨️ Prototypage & Fabrication
 
 • Impression 3D et prototypage rapide
+
 • Fabrication additive
+
 • Validation et amélioration de prototypes
+
 • Approche orientée produit industriel
 
 📊 Outils & Gestion
 
 • Pack Office (Excel, Word, PowerPoint)
+
 • Documentation technique
+
 • Gestion de projet technique
+
 • Analyse et résolution de problèmes industriels
 
 🚀 Projets
@@ -68,8 +82,11 @@ Analyse de processus de production et propositions d’amélioration pour optimi
 Évoluer dans les domaines de la conception mécanique, des méthodes industrielles et de l’industrialisation afin de participer à :
 
 • la conception de produits mécaniques innovants
+
 • l’optimisation des processus industriels
+
 • l’amélioration continue des ateliers de fabrication
+
 • la mise en production de nouveaux produits
 
 📫 Contact
