@@ -70,8 +70,7 @@ Analyse de processus de production et propositions d’amélioration pour optimi
 
 📫 Contact
 
-LinkedIn : (ajouter le lien)
-Email : (ajouter l’email)
-GitHub : (ajouter le lien)
+LinkedIn : https://www.linkedin.com/in/zakaria-el-amraoui-876274136/
+Email : elamraoui.zakaria94@gmail.com
 
 ⭐ Merci de visiter mon portfolio !
