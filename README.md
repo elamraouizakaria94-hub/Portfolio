@@ -1,73 +1,77 @@
-👋 Portfolio - Ingénieur Mécanique | Méthodes & Industrialisation
+👋 Portfolio – Ingénieur Mécanique | CAO • Conception • Méthodes • Industrialisation
 
 🧑‍💼 À propos de moi
 
-Ingénieur en mécanique passionné par l’industrie et l’optimisation des processus de fabrication, je cherche à me spécialiser dans les méthodes industrielles et l’industrialisation des produits.
+Ingénieur en mécanique passionné par la conception industrielle, la CAO et l’optimisation des systèmes de fabrication, je développe des compétences en conception mécanique, méthodes industrielles et industrialisation des produits.
 
-Mon objectif est de participer à la mise en production de produits mécaniques, à l’amélioration des procédés de fabrication et à l’optimisation des postes de travail dans un environnement industriel.
+À travers mes projets et expériences, j’interviens sur la modélisation 3D, la mise en plan, l’amélioration des procédés de fabrication ainsi que l’optimisation technique des solutions mécaniques.
 
-🛠️ Compétences techniques
+Curieux, rigoureux et orienté terrain, je souhaite contribuer à des projets industriels innovants allant de la conception jusqu’à la mise en production.
 
-🔧 Conception & CAO
+🛠️ Domaines de compétences
 
-SolidWorks / CATIA / Creo (selon ton cas)
-Modélisation 3D de pièces mécaniques
-Mise en plan et cotation fonctionnelle
-Conception orientée fabrication (DFM)
+🔧 Conception mécanique & CAO
 
-🏭 Méthodes industrielles
+• Modélisation 3D de pièces et ensembles mécaniques
+• Mise en plan et cotation fonctionnelle
+• Conception orientée fabrication et assemblage
+• Études mécaniques et optimisation de conception
+• Logiciels : SolidWorks / CATIA / Creo
 
-Analyse de processus de fabrication
-Étude de postes de travail
-Notions d’amélioration continue (Lean Manufacturing)
-Optimisation des temps et coûts de production
+🏭 Méthodes & Industrialisation
 
-📊 Outils
+• Analyse des procédés de fabrication
+• Préparation et optimisation de production
+• Étude et amélioration de postes de travail
+• Réduction des coûts et optimisation des temps
+• Introduction aux méthodes Lean Manufacturing
 
-Pack Office (Excel, Word, PowerPoint)
-Notions de gestion de projet
-Documentation technique
+🖨️ Prototypage & Fabrication
+
+• Impression 3D et prototypage rapide
+• Fabrication additive
+• Validation et amélioration de prototypes
+• Approche orientée produit industriel
+
+📊 Outils & Gestion
+
+• Pack Office (Excel, Word, PowerPoint)
+• Documentation technique
+• Gestion de projet technique
+• Analyse et résolution de problèmes industriels
 
 🚀 Projets
 
-📌 Projet 1 : Conception d’une pièce mécanique
+📌 Conception mécanique et modélisation CAO
+Développement de modèles 3D, mise en plan et optimisation de pièces mécaniques destinées à la fabrication.
 
-Modélisation 3D sous CAO
-Étude des contraintes de fabrication
-Optimisation de la géométrie
+📌 Projet d’impression 3D
+Conception et réalisation de prototypes fonctionnels avec amélioration continue des performances et de la fabricabilité.
 
-📌 Projet 2 : Projet impression 3D
-
-Conception d’un prototype fonctionnel
-Fabrication additive
-Tests et améliorations
-
-📌 Projet 3 : Étude de poste de travail
-
-Analyse ergonomique
-Proposition d’amélioration
-Réduction des contraintes opérateur
+📌 Étude de méthodes industrielles
+Analyse de processus de production et propositions d’amélioration pour optimiser l’ergonomie et l’efficacité industrielle.
 
 📁 Contenu du portfolio
 
-📄 CV en PDF
-
-📊 Dossier de compétences
-
-🧩 Projets CAO et industriels
-
-🖼️ Rendus et images de projets
+• CV professionnel
+• Dossier de compétences
+• Projets CAO et industriels
+• Rendus 3D et visuels techniques
+• Documents techniques et études
 
 🎯 Objectif professionnel
 
-Intégrer un poste en méthodes / industrialisation afin de contribuer à :
+Évoluer dans les domaines de la conception mécanique, des méthodes industrielles et de l’industrialisation afin de participer à :
 
-l’optimisation des processus industriels
-la mise en production de nouveaux produits
-l’amélioration continue des ateliers de fabrication
+• la conception de produits mécaniques innovants
+• l’optimisation des processus industriels
+• l’amélioration continue des ateliers de fabrication
+• la mise en production de nouveaux produits
+
 📫 Contact
-LinkedIn : (ajouter ton lien)
-Email : (ajouter ton email)
-GitHub : (lien du profil)
+
+LinkedIn : (ajouter le lien)
+Email : (ajouter l’email)
+GitHub : (ajouter le lien)
 
 ⭐ Merci de visiter mon portfolio !
