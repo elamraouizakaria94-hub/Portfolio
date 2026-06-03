@@ -1,3 +1,8 @@
+</h2>
+<div align="center">
+  <img alt="Demo" src="./images/photo-de-couverture.jpg" />
+</div>
+
 <p align="center">
   <img src="images/photo-de-couverture.jpg" width="100%" height="240" />
 </p>
