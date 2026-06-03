@@ -1,13 +1,9 @@
-</h2>
-<div align="center">
-  <img alt="Demo" src="./images/photo-de-couverture.jpg" />
-</div>
+👋 Portfolio – Ingénieur Mécanique | CAO • Conception • Méthodes • Industrialisation
 
 <p align="center">
   <img src="images/photo-de-couverture.jpg" width="100%" height="240" />
 </p>
 
-👋 Portfolio – Ingénieur Mécanique | CAO • Conception • Méthodes • Industrialisation
 
 🧑‍💼 À propos de moi
 
