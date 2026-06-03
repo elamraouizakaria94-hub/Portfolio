@@ -2,7 +2,6 @@
   👋 Portfolio – Ingénieur Mécanique | CAO • Conception • Méthodes • Industrialisation 
 </h2>
 
-
 <p align="center">
   <img src="images/photo-de-couverture.jpg" width="100%" height="240" />
 </p>
