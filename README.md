@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋 Portfolio – Ingénieur Mécanique | CAO • Conception • Méthodes • Industrialisation 
+   Portfolio – Ingénieur Mécanique | CAO • Conception • Méthodes • Industrialisation 
 </h2>
 
 <p align="center">
