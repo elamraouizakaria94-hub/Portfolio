@@ -78,7 +78,7 @@ Analyse de processus de production et propositions d’amélioration pour optimi
 
 • Dossier de compétences : [Dossier de compétences](Dossier_Competences_EL_AMRAOUI.pdf)
 
-• Projets CAO et industriels [Projet de CAO](./Projets de CAO_/)
+• Projets CAO et industriels [Projet de CAO](./Projets de CAO/)
 
 • Rendus 3D et visuels techniques
 
