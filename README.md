@@ -96,10 +96,5 @@ Analyse de processus de production et propositions d’amélioration pour optimi
 
 • la mise en production de nouveaux produits
 
-📫 Contact
-
-LinkedIn : https://www.linkedin.com/in/zakaria-el-amraoui-876274136/
-
-Email : elamraoui.zakaria94@gmail.com
 
 ⭐ Merci de visiter mon portfolio !
